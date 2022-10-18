@@ -9,3 +9,4 @@
       And clicks on login button
       Then user is navigated to the home page
 
+
