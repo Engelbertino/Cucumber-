@@ -1,7 +1,13 @@
 
-  Feature: feature to test functionality
 
-    @smoketest
+# Author
+# Date
+# Description
+
+@smoketest
+Feature: feature to test functionality
+
+
     Scenario: Check login is successful with valid credentials
 
       Given is on login page

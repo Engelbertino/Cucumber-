@@ -14,8 +14,8 @@ import io.cucumber.junit.CucumberOptions;
         //plugin = {"pretty", "html:target/HtmlReports"},
         plugin = {"pretty", "junit:target/JUnitReports/report.xml",
         "json:target/JSONReports",
-                "html:target/HtmlReports"},
-        tags = "@smoketest"
+                "html:target/HtmlReports"}
+        //tags = "@smoketest"
     )
 public class TestRunner {
 
